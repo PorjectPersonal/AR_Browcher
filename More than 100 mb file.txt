@@ -1,0 +1,3 @@
+AR_Browcher\Brochure\Library\PackageCache\com.ptc.vuforia.engine@9.4.6\Vuforia\Plugins\iOS\Vuforia.framework
+
+AR_Browcher\Brochure\Library
